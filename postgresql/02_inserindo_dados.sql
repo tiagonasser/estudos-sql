@@ -1,0 +1,22 @@
+-- Inserção de 20 contatos em um único INSERT
+INSERT INTO contatos (nome, telefone, cidade) VALUES
+    ('Maria Silva', '81 99999-0001', 'Recife'),
+    ('João Souza', '81 98888-0002', 'Olinda'),
+    ('Ana Lima', '81 97777-0003', 'Recife'),
+    ('Carlos Pereira', '81 96666-0004', 'Jaboatão'),
+    ('Fernanda Costa', '81 95555-0005', 'Olinda'),
+    ('Pedro Alves', '81 94444-0006', 'Recife'),
+    ('Juliana Rocha', '81 93333-0007', 'Caruaru'),
+    ('Rafael Mendes', '81 92222-0008', 'Jaboatão'),
+    ('Patrícia Nunes', '81 91111-0009', 'Recife'),
+    ('Lucas Barbosa', '81 91010-0010', 'Petrolina'),
+    ('Camila Ferreira', '81 92020-0011', 'Olinda'),
+    ('Bruno Carvalho', '81 93030-0012', 'Recife'),
+    ('Larissa Gomes', '81 94040-0013', 'Paulista'),
+    ('Diego Martins', '81 95050-0014', 'Caruaru'),
+    ('Sofia Ribeiro', '81 96060-0015', 'Recife'),
+    ('Thiago Araújo', '81 97070-0016', 'Jaboatão'),
+    ('Bianca Teixeira', '81 98080-0017', 'Petrolina'),
+    ('Gustavo Moreira', '81 99090-0018', 'Paulista'),
+    ('Renata Cardoso', '81 98989-0019', 'Olinda'),
+    ('Felipe Duarte', '81 97979-0020', 'Recife');
